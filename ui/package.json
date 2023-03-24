@@ -58,7 +58,7 @@
     "localforage": "^1.7.3",
     "lodash.clonedeep": "^4.5.0",
     "lodash.debounce": "^4.0.8",
-    "markdown-it": "^10.0.0",
+    "markdown-it": "^12.0.0",
     "markdown-it-highlightjs": "^3.0.0",
     "markdown-it-link-attributes": "^3.0.0",
     "material-ui-treeview": "^4.1.0",
